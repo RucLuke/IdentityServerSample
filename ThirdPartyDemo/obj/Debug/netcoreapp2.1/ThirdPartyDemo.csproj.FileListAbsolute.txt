@@ -1,0 +1,11 @@
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.csprojAssemblyReference.cache
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.csproj.CoreCompileInputs.cache
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.AssemblyInfoInputs.cache
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.AssemblyInfo.cs
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.deps.json
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.runtimeconfig.json
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.runtimeconfig.dev.json
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.dll
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.pdb
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.dll
+E:\Codes\BestPractice\IdentityServerSample\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.pdb

@@ -1,0 +1,14 @@
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.deps.json
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.runtimeconfig.json
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.runtimeconfig.dev.json
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.dll
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.pdb
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.csprojAssemblyReference.cache
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.csproj.CoreCompileInputs.cache
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorAssemblyInfo.cache
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorAssemblyInfo.cs
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.AssemblyInfoInputs.cache
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.AssemblyInfo.cs
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorTargetAssemblyInfo.cache
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.dll
+E:\Codes\BestPractice\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.pdb

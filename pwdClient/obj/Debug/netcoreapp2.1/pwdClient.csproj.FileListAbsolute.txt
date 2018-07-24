@@ -1,0 +1,11 @@
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\obj\Debug\netcoreapp2.1\pwdClient.csprojAssemblyReference.cache
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\obj\Debug\netcoreapp2.1\pwdClient.csproj.CoreCompileInputs.cache
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\obj\Debug\netcoreapp2.1\pwdClient.AssemblyInfoInputs.cache
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\obj\Debug\netcoreapp2.1\pwdClient.AssemblyInfo.cs
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\bin\Debug\netcoreapp2.1\pwdClient.deps.json
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\bin\Debug\netcoreapp2.1\pwdClient.runtimeconfig.json
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\bin\Debug\netcoreapp2.1\pwdClient.runtimeconfig.dev.json
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\bin\Debug\netcoreapp2.1\pwdClient.dll
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\bin\Debug\netcoreapp2.1\pwdClient.pdb
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\obj\Debug\netcoreapp2.1\pwdClient.dll
+E:\Codes\BestPractice\IdentityServerSample\pwdClient\obj\Debug\netcoreapp2.1\pwdClient.pdb
